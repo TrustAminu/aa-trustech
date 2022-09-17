@@ -14,7 +14,7 @@
   .header {
     padding: 80px;
     text-align: center;
-    background-image: url("images/blue_sec.jpg");
+    background-image: url("Images/blue_sec.jpg");
     background-color: #04375a;
     color: white;
     
@@ -73,7 +73,7 @@
   .main {   
     -ms-flex: 70%; /* IE10 */
     flex: 70%;
-    background-image: url("images/cool_back.png");
+    background-image: url("Images/cool_back.png");
     background-color: white;
     padding: 20px;
   }
